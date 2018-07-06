@@ -14,10 +14,6 @@ baseurl:          ''
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
-
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
@@ -35,7 +31,9 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/LeeMinki
 
-  disqus:
-    shortname: LeeMinki 
+disqus:
+  shortname: LeeMinki
+
+sidebar_link: true
