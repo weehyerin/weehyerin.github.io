@@ -37,4 +37,5 @@ sidebar_home_link:  true
 github:
   repo:             https://github.com/fongandrew/hydeout
 
-  disqus_shortname: LeeMinki 
+  disqus:
+    shortname: LeeMinki 

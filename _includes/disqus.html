@@ -1,7 +1,7 @@
 {% if site.disqus.shortname %}
   <div id="disqus_thread">
     <button class="disqus-load" onClick="loadDisqusComments()">
-      Load Comments
+      Comments
     </button>
   </div>
   <script>
@@ -19,7 +19,7 @@
   }
   function loadDisqusComments() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = '//{{ site.disqus.shortname }}.disqus.com/embed.js';
+    s.src = 'https://leeminki-1.disqus.com/embed.js';;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   }
@@ -41,3 +41,6 @@
     <code>comments.html</code> partial for this theme.
   </p>
 {% endif %}
+
+<div id="disqus_thread"></div>
+<script>
