@@ -7,12 +7,14 @@ categories:
 tags:
   - 순차 탐색
   - 자료구조
-published : false
 ---
 
-## LinearSerach.c
+# 출처
+### 윤성우, 『윤성우의 열혈 자료구조』, 오렌지미디어(2013-03-26), 28-29p
 
+---
 <!--more-->
+## LinearSerach.c
 ```cpp
 #include <stdio.h>
 
@@ -54,4 +56,3 @@ int main(void) {
 ```
 
 시간복잡도가 n인 순차탐색 알고리즘이다.
-모르면 **자살**
