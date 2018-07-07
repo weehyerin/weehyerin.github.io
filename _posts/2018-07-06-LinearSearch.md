@@ -7,6 +7,7 @@ categories:
 tags:
   - 순차 탐색
   - 자료구조
+published : false
 ---
 
 ## LinearSerach.c
