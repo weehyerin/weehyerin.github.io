@@ -7,7 +7,6 @@ categories:
 tags:
   - 이진 탐색
   - 자료구조
-use_math: true
 ---
 
 # 출처
