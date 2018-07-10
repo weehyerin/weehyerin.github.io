@@ -9,19 +9,15 @@ tags:
   - 자료구조
   - 리스트
 ---
-
 # 출처
 ### 윤성우, 『윤성우의 열혈 자료구조』, 오렌지미디어(2013-03-26), 74-98p
-
 ---
-
 <!--more-->
 ## ADT
 * Abstract Data type
 * 순수한 기능을 나열
 
 ---
-
 ## 정수 기반 배열 리스트
 
 ### 리스트 자료구조의 ADT
@@ -52,9 +48,7 @@ LData LRemove(List * plist);
 int LCount(List * plist);
  - 리스트에 저장되어 있는 데이터 수 반환
  ```
-
 ## ArrayList.h
-
 ```cpp
 #ifndef __ARRAY_LIST_H__
 #define __ARRAY_LIST_H__
@@ -85,7 +79,6 @@ int LCount(List *plist);    // 저장된 데이터의 수 반환
 
 #endif
 ```
-
 ## ArrayList.c
 ```cpp
 #include <stdio.h>
@@ -140,7 +133,6 @@ LData LRemove(List *plist) {
 
 int LCount(List *plist) { return plist->numOfData; }
 ```
-
 ## ListMain.c
 ```cpp
 #include <stdio.h>
@@ -194,13 +186,12 @@ int main(void) {
   return 0;
 }
 ```
+---
+## 실행결과
 
 `gcc -c ArrayList.c`  
 `gcc -c ListMain.c`  
 `gcc ListMain.o ArrayList.o`를 해야 실행파일이 나옴
-
-### 실행결과
-
 ```bash
 현재 데이터의 수: 5
 11 11 22 22 33
@@ -208,7 +199,6 @@ int main(void) {
 현재 데이터의 수: 3
 11 11 33
 ```
-
 정수 기반 배열 리스트이다.
 
 ---
@@ -255,7 +245,6 @@ int LCount(List *plist);    // 저장된 데이터의 수 반환
 
 #endif
 ```
-
 ## Point.h
 ```cpp
 #ifndef __POINT_H__
@@ -277,7 +266,6 @@ int PointComp(Point *pos1, Point *pos2);
 
 #endif
 ```
-
 ## Point.c
 ```cpp
 #include <stdio.h>
@@ -303,7 +291,6 @@ int PointComp(Point *pos1, Point *pos2) {
     return -1;
 }
 ```
-
 ## PointListMain.c
 ```cpp
 #include <stdio.h>
@@ -378,15 +365,13 @@ int main(void) {
   return 0;
 }
 ```
-
+---
+## 실행결과
 `gcc -c ArrayList.c`  
 `gcc -c Point.c`  
 `gcc -c PointListMain.c`  
 `gcc PointListMain.o Point.o ArrayList.o`  
 를 해야 실행파일이 나옴
-
-### 실행결과
-
 ```bash
 현재 데이터의 수: 4
 [2, 1]
@@ -398,5 +383,4 @@ int main(void) {
 [3, 1]
 [3, 2]
 ```
-
 구조체 기반 배열 리스트이다.
