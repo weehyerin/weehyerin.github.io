@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "나의 첫 딥러닝"
+title: "1. 나의 첫 딥러닝"
 excerpt_separator:  <!--more-->
 categories:
- - Machine Learning
+ - Data science
 tags:
   - 기계학습
+  - 데이터 과학
   - 모두의 딥러닝
 ---
 

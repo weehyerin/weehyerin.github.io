@@ -5,7 +5,6 @@ excerpt_separator:  <!--more-->
 categories:
  - Algorithm
 tags:
-  - part 02
   - 삼성 알고리즘
   - 후위순회
   - 알고리즘
