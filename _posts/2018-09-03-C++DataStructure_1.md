@@ -243,7 +243,7 @@ int sequentialSearch(int list[], int n, int key) {
 
 ### 1. 선형 구조만으로 나열된 것은?
 
-### 답
+### 1번 답
 
 배열, 스택, 큐
 
@@ -251,7 +251,7 @@ int sequentialSearch(int list[], int n, int key) {
 
 ### 2. 자료 구조의 성격이 나머지 셋과 다른 하나는?
 
-### 답
+### 2번 답
 
 그래프(Graph)
 
@@ -261,7 +261,7 @@ int sequentialSearch(int list[], int n, int key) {
 
 Create, Insert, Remove, Is_In, Union, intersection, Difference
 
-### 답
+### 3번 답
 
 객체: 원소들의 모임  
 연산:
@@ -278,7 +278,7 @@ Create, Insert, Remove, Is_In, Union, intersection, Difference
 
 ### 4. 시간 복잡도 함수 $$n^2+10n+8$$를 빅오 표기법으로 나타내면?
 
-### 답
+### 4번 답
 
 $$O(n^2)$$
 
@@ -288,7 +288,7 @@ $$O(n^2)$$
 
 $$O(1), O(n), O(logn), O(n^2), O(nlogn), O(n!), O(2^n)$$
 
-### 답
+### 5번 답
 
 $$O(1), O(logn), O(n), O(nlogn), O(n^2), O(2^n), O(n!)$$
 
@@ -307,7 +307,7 @@ int algorithm(int n) {
 }
 ```
 
-### 답
+### 6번 답
 
 $$\frac{n}{2^k}=1$$
 
@@ -321,7 +321,7 @@ $$O(logn)$$
 
 $$3n^2+10n+2=O(n^2)$$
 
-### 답
+### 7번 답
 
 > **정의 1.2 빅오 표기법**  
 두 개의 함수 $$f(n)$$과 $$g(n)$$이 주어졌을 때 모든 $$n>n_0$$에 대해 $$|f(n)|≤c|g(n)|$$을 만족하는 상수 $$c$$와 $$n_0$$가 존재하면 $$f(n)=O(g(n))$$이다.
@@ -339,7 +339,7 @@ for(i = 0; i < n; i *= 2)
   sub();
 ```
 
-### 답
+### 8번 답
 
 $$O(nlogn)$$
 
@@ -353,7 +353,7 @@ $$O(nlogn)$$
 
 #### (3) 배열의 모든 숫자를 더한다.
 
-### 답
+### 9번 답
 
 #### (1) 최악, 최선 둘 다 $$O(1)$$
 
@@ -394,6 +394,7 @@ $$O(nlogn)$$
 #### pp1-1.cpp
 
 ```cpp
+// pp1-1.cpp
 #include <cstdio>
 #include <cstdlib>
 #include <ctime>
@@ -448,7 +449,7 @@ int main(void) {
 }
 ```
 
-#### 실행 결과((1), (2)번 해결)
+#### pp1-1.cpp 실행 결과 --> (1), (2)번 해결
 
 ```bash
 n: 1000
@@ -459,9 +460,10 @@ n: 1000
 
 #### (3) A, B, C 순서대로 $$O(1), O(n), O(n^2)$$
 
-#### (4) 소스코드 변경 --> pp1-1-4.cpp
+#### pp1-1-4.cpp --> (4) 해결
 
 ```cpp
+// pp1-1-4.cpp
 #include <cstdio>
 #include <cstdlib>
 #include <ctime>
@@ -515,7 +517,7 @@ int main(void) {
 }
 ```
 
-#### 실행결과(C가 5초이상 될 때 중지했음), 표, 그래프는 생략함
+#### pp1-1-4.cpp 실행결과(C가 5초이상 될 때 중지했음), 표, 그래프는 생략함
 
 ```bash
 n = 0, 알고리즘 A 결과: 0, 걸린 시간: 0.000000
@@ -565,7 +567,7 @@ n = 28000, 알고리즘 B 결과: 392014000, 걸린 시간: 0.000000
 n = 28000, 알고리즘 C 결과: 392014000, 걸린 시간: 0.562500
 ```
 
-#### (5) 소스코드 변경 --> pp1-1-5.cpp
+#### pp1-1-5.cpp --> (5) 해결
 
 ```cpp
 #include <cstdio>
@@ -607,7 +609,7 @@ int main(void) {
 }
 ```
 
-#### 실행 결과(역시나 표, 그래프는 생략함)
+#### pp1-1-5.cpp 실행 결과(역시나 표, 그래프는 생략함)
 
 ```bash
 n = 0, 알고리즘 A 결과: 0, 걸린 시간: 0.000000
