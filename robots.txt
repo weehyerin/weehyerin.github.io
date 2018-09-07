@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leeminki.github.io/sitemap.xml
