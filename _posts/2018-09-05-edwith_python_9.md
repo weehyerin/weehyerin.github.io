@@ -37,7 +37,7 @@ from collections import namedtuple
 
 * Stack과 Queue를 지원하는 모듈
 * List에 비해 효율적인 자료 저장 방식을 지원함
-* rotae, reverse등 Linked list의 특성을 지원함
+* rotate, reverse등 Linked list의 특성을 지원함
 * 기존 list 형태의 함수를 모두 지원함
 
 ```python

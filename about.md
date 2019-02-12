@@ -5,5 +5,5 @@ sidebar_link: true
 ---
 
 <p class="message">
-  뭘바 suu8
+  Hi
 </p>

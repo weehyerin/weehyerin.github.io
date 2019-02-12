@@ -19,9 +19,9 @@ paginate:         5
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
 
 # Custom vars
 version:            3.7.0
