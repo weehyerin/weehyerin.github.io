@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4. Pythonic Code - Split & Join"
+title: "Pythonic Code - Split & Join"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

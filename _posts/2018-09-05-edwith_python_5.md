@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5. Pythonic Code - List Comprehension"
+title: "Pythonic Code - List Comprehension"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

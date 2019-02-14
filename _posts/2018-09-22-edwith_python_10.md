@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10. Pythonic Code - Linear algebra codes"
+title: "Pythonic Code - Linear algebra codes"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12. Assignment - Basic Linear Algebra"
+title: "Assignment - Basic Linear Algebra"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

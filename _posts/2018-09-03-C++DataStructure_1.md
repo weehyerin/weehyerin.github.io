@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. 자료구조와 알고리즘"
+title: "자료구조와 알고리즘"
 excerpt_separator:  <!--more-->
 categories:
  - Data structure

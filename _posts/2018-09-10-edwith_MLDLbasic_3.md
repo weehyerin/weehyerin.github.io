@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3. 기본적인 Machine Learning의 용어와 개념 설명"
+title: "기본적인 Machine Learning의 용어와 개념 설명"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

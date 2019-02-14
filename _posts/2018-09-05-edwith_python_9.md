@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9. <참고> Data Structure - Collections"
+title: "<참고> Data Structure - Collections"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

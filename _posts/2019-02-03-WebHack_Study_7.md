@@ -93,7 +93,7 @@ tags:
 
 ![image](https://user-images.githubusercontent.com/28076542/52172311-3a753d00-27b0-11e9-9bf8-738568f42e92.png)
 
-* Login: `' or 1=1` #
+* Login: `' or 1=1 #`
 * Password: `1`
 
 ![image](https://user-images.githubusercontent.com/28076542/52172326-8cb65e00-27b0-11e9-862b-647055396eda.png)

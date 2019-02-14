@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. 나의 첫 딥러닝"
+title: "나의 첫 딥러닝"
 excerpt_separator:  <!--more-->
 categories:
  - Data science

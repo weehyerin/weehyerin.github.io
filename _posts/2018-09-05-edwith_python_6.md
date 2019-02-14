@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6. Pythonic Code - Enumerate & Zip"
+title: "Pythonic Code - Enumerate & Zip"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

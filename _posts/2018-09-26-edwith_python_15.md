@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15. Matchine Learning Overview & An understanding of data"
+title: "Matchine Learning Overview & An understanding of data"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

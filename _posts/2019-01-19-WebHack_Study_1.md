@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "비박스를 활용한 웹 모의해킹 완벽 실습 -오리엔테이션"
+title: "비박스를 활용한 웹 모의해킹 완벽 실습 - 오리엔테이션"
 excerpt_separator:  <!--more-->
 categories:
  - WebHack

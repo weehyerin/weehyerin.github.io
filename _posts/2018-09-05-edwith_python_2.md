@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2. 실습 프로그램 설치 안내"
+title: "실습 프로그램 설치 안내"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

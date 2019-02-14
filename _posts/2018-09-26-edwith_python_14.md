@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "14. Machine Learning Overview - Python ecosystem for ML"
+title: "Machine Learning Overview - Python ecosystem for ML"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

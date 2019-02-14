@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11. Case Study - News Categorization"
+title: "Case Study - News Categorization"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "8. Pythonic Code - Asterisk"
+title: "Pythonic Code - Asterisk"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

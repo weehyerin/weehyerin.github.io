@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11. Hyperledger Fabric Security"
+title: "Hyperledger Fabric Security"
 excerpt_separator:  <!--more-->
 categories:
  - Blockchain

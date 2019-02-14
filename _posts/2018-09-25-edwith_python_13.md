@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13. Assignment - Insert Operation"
+title: "Assignment - Insert Operation"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

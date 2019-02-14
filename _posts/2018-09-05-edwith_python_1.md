@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. Intro"
+title: "Intro"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

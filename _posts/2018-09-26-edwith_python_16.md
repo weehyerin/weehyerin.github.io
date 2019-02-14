@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "16. An understanding of data - Representing a model"
+title: "An understanding of data - Representing a model"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

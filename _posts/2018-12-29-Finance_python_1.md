@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. 준비하기"
+title: "준비하기"
 excerpt_separator:  <!--more-->
 categories:
  - Data science

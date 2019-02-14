@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7. Pythonic Code - Lambda & MapReduce"
+title: "Pythonic Code - Lambda & MapReduce"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

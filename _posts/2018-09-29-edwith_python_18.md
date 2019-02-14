@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "18. Data Handling - Pandas #1"
+title: "Data Handling - Pandas #1"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

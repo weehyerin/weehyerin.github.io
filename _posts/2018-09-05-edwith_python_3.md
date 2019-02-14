@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3. Pythonic Code Overview"
+title: "Pythonic Code Overview"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

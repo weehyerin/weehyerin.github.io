@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. 수업소개와 개요"
+title: "수업소개와 개요"
 excerpt_separator:  <!--more-->
 categories:
  - edwith

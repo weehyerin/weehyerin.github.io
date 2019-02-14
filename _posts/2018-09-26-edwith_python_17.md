@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "17. Data handling section - Numerical Python - numpy"
+title: "Data handling section - Numerical Python - numpy"
 excerpt_separator:  <!--more-->
 categories:
  - edwith
