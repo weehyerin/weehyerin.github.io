@@ -11,13 +11,13 @@ tags:
   - edwith
 ---
 
+<!--more-->
+
 # 출처
 
 ## edwith, <https://www.edwith.org/>, 머신러닝을 위한 Python
 
 ---
-
-<!--more-->
 
 ## 벡터를 Array로 표현하기
 

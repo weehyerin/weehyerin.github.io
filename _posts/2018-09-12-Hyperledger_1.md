@@ -11,13 +11,13 @@ tags:
   - Hands-On Blockchain with Hyperledger
 ---
 
+<!--more-->
+
 # 출처
 
 ## Nitin Guar, *Hands-On Blockchain with Hyperledger*, Packt Publishing Ltd(2018-06), p392-410
 
 ---
-
-<!--more-->
 
 # 하이퍼레저 패브릭 보안
 

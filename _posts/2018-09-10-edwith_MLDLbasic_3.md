@@ -10,6 +10,8 @@ tags:
   - edwith
 ---
 
+<!--more-->
+
 # 출처
 
 ## edwith, <https://www.edwith.org/>, 머신러닝과 딥러닝 BASIC>
@@ -17,8 +19,6 @@ tags:
 ## <https://steemit.com/it/@sukjunko/38ndhz-sj>
 
 ---
-
-<!--more-->
 
 ## 텐서플로 기본을 배워볼게여
 

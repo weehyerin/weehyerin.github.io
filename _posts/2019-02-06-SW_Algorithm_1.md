@@ -10,13 +10,13 @@ tags:
   - 삼성 소프트웨어 역량테스트
 ---
 
+<!--more-->
+
 # 출처
 
 ## SW Expert Academy, <https://www.swexpertacademy.com/main/main.do>
 
 ---
-
-<!--more-->
 
 ## 1. 문제
 

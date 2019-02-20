@@ -10,13 +10,13 @@ tags:
   - edwith
 ---
 
+<!--more-->
+
 # 출처
 
 ## edwith, <https://www.edwith.org/>, 머신러닝과 딥러닝 BASIC
 
 ---
-
-<!--more-->
 
 ## 오늘 배울 것
 

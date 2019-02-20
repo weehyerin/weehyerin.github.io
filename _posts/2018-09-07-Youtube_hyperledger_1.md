@@ -12,13 +12,13 @@ tags:
   - 박승철의 블록체인 및 정보보호론 강의
 ---
 
+<!--more-->
+
 # 출처
 
 ## YouTube, <https://www.youtube.com/watch?v=hh9NXQQRtx4>
 
 ---
-
-<!--more-->
 
 # 하이퍼레저 패브릭 개요
 
