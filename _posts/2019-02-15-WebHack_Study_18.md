@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "비박스를 활용한 웹 모의해킹 완벽 실습 - 디렉터리 리스팅/파일 삽입
-"
+title: "비박스를 활용한 웹 모의해킹 완벽 실습 - 디렉터리 리스팅/파일 삽입"
 excerpt_separator:  <!--more-->
 categories:
  - WebHack

@@ -76,11 +76,11 @@ mysql>
 * -p: 패스워드 입력
 * `ctrl + L`: 화면 정리
 
-### 데이터 베이스 구조
+### 데이터베이스 구조
 
 ![image](https://user-images.githubusercontent.com/28076542/51726656-c2ba5a80-20ab-11e9-86b7-487900afd7e8.png)
 
-### 2. 데이터 베이스 확인하기
+### 2. 데이터베이스 확인하기
 
 ```bash
 mysql> show databases;
@@ -100,7 +100,7 @@ Current database: *** NONE ***
 4 rows in set (0.01 sec)
 ```
 
-### 3. 새로운 데이터 베이스 만들기
+### 3. 새로운 데이터베이스 만들기
 
 ```bash
 mysql> create database testdb;
@@ -119,7 +119,7 @@ mysql> show databases;
 5 rows in set (0.00 sec)
 ```
 
-### 4. 데이터 베이스 선택하고 테이블 만들기
+### 4. 데이터베이스 선택하고 테이블 만들기
 
 ```bash
 mysql> use testdb;
@@ -507,5 +507,5 @@ mysql> show databases;
 5 rows in set (0.01 sec)
 ```
 
-* **information schema**: 다른 데이터 베이스를 조회할 수 있는 테이블
+* **information schema**: 다른 데이터베이스를 조회할 수 있는 테이블
 * information schema를 악용할 수 있음 --> 앞에 쿼리는 거짓, 뒤에는 테이블을 넣는 방법으로 가능

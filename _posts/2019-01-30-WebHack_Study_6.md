@@ -25,7 +25,7 @@ tags:
 
 ## SQLMAP
 
-* SQL 인젝션 결함을 이용하여 익스플로잇, 데이터 베이스 서버를 접수하기 위한 오픈 소스
+* SQL 인젝션 결함을 이용하여 익스플로잇, 데이터베이스 서버를 접수하기 위한 오픈 소스
 * 침투 점검을 위한 툴
 * MySQL, Oracle, PostgreSQL, Microsoft SQL Server 등을 지원
 * [SQLMAP 소개](https://blog.naver.com/isc0304/220372379862)
@@ -56,7 +56,7 @@ sqlmap -u "http://192.168.190.143/bWAPP/sqli_1.php?title=aaaaa&action=search" --
 
 ![image](https://user-images.githubusercontent.com/28076542/52032692-6650b280-2565-11e9-8bcf-7b051bc31ff4.png)
 
-* 데이터 베이스 이름 가져오기
+* 데이터베이스 이름 가져오기
 
 ```bash
 sqlmap -u "http://192.168.190.143/bWAPP/sqli_1.php?title=aaaaa&action=search" -v 3 -p title --cookie="security_level=0; PHPSESSID=1b689371cf8562edd56a5c1af28510e5" --dbs
@@ -90,7 +90,7 @@ sqlmap -u "http://192.168.190.143/bWAPP/sqli_6.php" --data="title=aaaaa&action=s
 
 ![image](https://user-images.githubusercontent.com/28076542/52035070-14ac2600-256d-11e9-9318-2e105f057ece.png)
 
-* 데이터 베이스의 스레드를 잠을 재워 응답을 지연시키는 함수
+* 데이터베이스의 스레드를 잠을 재워 응답을 지연시키는 함수
 * sqlmap에서 sleep 함수는 빼는 것이 좋음(방법은 모르겠음...)
 
 ## 메타스플로잇

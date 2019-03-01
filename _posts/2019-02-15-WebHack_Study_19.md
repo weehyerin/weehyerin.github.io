@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "비박스를 활용한 웹 모의해킹 완벽 실습 - 디바이스 접근 제한/서버 측 요청변조
-"
+title: "비박스를 활용한 웹 모의해킹 완벽 실습 - 디바이스 접근 제한/서버 측 요청변조"
 excerpt_separator:  <!--more-->
 categories:
  - WebHack

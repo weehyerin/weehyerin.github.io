@@ -23,7 +23,7 @@ tags:
 
 ### Exploit-DB GHDB
 
-* 구글 검색으로 취약점을 찾을 수 있는 데이터 베이스
+* 구글 검색으로 취약점을 찾을 수 있는 데이터베이스
 * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
 * Robots.txt: 구글 검색을 위한 파일이며 구글의 검색 허용 범위를 지정
 * 관리자 페이지처럼 중요한 정보를 노출시킬 수도 있음
