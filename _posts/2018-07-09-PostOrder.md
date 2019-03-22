@@ -5,7 +5,6 @@ excerpt_separator:  <!--more-->
 categories:
  - Algorithm
 tags:
-  - 삼성 알고리즘
   - 후위순회
   - 알고리즘
   - 삼성 소프트웨어 역량테스트
