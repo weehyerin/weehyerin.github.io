@@ -68,7 +68,7 @@ public:
 int answer;
 int N;
 int map[20][20];
-int dir[4][2] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // 상하좌우
+int dir[4][2] = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} }; // 상하좌우
 Shark shark;
 vector<Fish> fishes;
 
