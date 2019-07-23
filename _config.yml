@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            ming
-tagline:          'hong3'
-description:      'Hi!'
-url:              https://LeeMinki.github.io
+title:            Weehyerin
+tagline:          'ming'
+description:      'Hi!!'
+url:              https://weehyerin.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -31,9 +31,9 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/LeeMinki
+  repo:             https://github.com/weehyerin
 
 disqus:
-  shortname: LeeMinki
+  shortname: Weehyerin
 
 sidebar_link: true
