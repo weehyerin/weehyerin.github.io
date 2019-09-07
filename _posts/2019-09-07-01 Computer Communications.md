@@ -3,7 +3,7 @@ layout: post
 title: "01 Computer Communications"
 excerpt_separator:  <!--more-->
 categories:
- - Computer Network
+ - Computer Communications
 tags:
   - computer
   - communications
